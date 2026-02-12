@@ -8,6 +8,8 @@
 
 ## 📊 Dashboard Overview
 
+![Real Estate Dashboard](https://github.com/princesi22/Real-Estate/blob/main/real%20state.png?raw=true)
+
 This real estate analytics dashboard provides real-time insights into property sales, revenue distribution, and market performance across multiple countries and quarters.
 
 ---
