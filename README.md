@@ -139,28 +139,5 @@ This dashboard is built using modern analytics tools:
 - **Agent Performance:** Individual contribution tracking
 - **Market Analysis:** Country-wise revenue distribution
 
----
 
-## 📞 Contact & Support
 
-For more information about our real estate analytics platform:
-
-- **Dashboard Access:** Contact your account manager
-- **Data Updates:** Real-time synchronization enabled
-- **Custom Reports:** Available upon request
-
----
-
-## 📄 License
-
-© 2025 Real Estate Analytics. All rights reserved.
-
----
-
-<div align="center">
-
-**Built with ❤️ for Real Estate Professionals**
-
-*Empowering data-driven decisions in property markets worldwide*
-
-</div>
